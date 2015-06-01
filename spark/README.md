@@ -21,4 +21,6 @@
 
 - [[amplab] Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)
 
+- [Spark TPC benchmark](https://www.citusdata.com/blog/86-making-postgresql-scale-hadoop-style)
+
 - [[github] TPC-DS benchmark](https://github.com/databricks/spark-sql-perf)
