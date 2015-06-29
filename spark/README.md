@@ -19,8 +19,11 @@
 
 ## Spark Shuffle
 [Improving Sort Performance in Apache Spark: It's a Double](http://blog.cloudera.com/blog/2015/01/improving-sort-performance-in-apache-spark-its-a-double/)
+
 [Sort-based Shuffle in Spark](https://issues.apache.org/jira/secure/attachment/12655884/Sort-basedshuffledesign.pdf)
+
 [SPARK-2045](https://issues.apache.org/jira/browse/SPARK-2045)
+
 [Spark shuffle introduction](http://www.slideshare.net/colorant/spark-shuffle-introduction)
 
 ## Spark Benchmark Test
