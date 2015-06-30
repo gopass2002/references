@@ -6,6 +6,8 @@
 
 - [Apache Spark 1.3 architecture-module spark-core](https://trongkhoanguyenblog.wordpress.com/2015/03/27/apache-spark-1-3-architecture-module-spark-core/)
 
+- [Introduction to spark internals](http://www.slideshare.net/michiard/introduction-to-spark-internals)
+
 ## Spark SQL
 
 - [[PPT] Shark: SQL and Rich Analytics at Scale](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=0CEUQFjAF&url=http%3A%2F%2Fcs.brown.edu%2F~debrabant%2Fcis570-website%2Fslides%2Fshark.pptx&ei=kztLVa6EEYi0mwX7k4C4Bg&usg=AFQjCNFimPT4d0N2pbuAvjSfdVk1QPFp4w&sig2=e1ngePNDWgeNfJfHtNlaPQ&bvm=bv.92765956,d.dGY&cad=rjt)
